@@ -1,4 +1,5 @@
 # projectTwoPractice
+
     .___             
   __| _/____   ____  
  / __ |/  _ \ / ___\ 
@@ -7,3 +8,7 @@
      \/     /_____/  
 
  changes are being made.
+
+
+* Scott Foster
+
